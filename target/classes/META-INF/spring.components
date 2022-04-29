@@ -1,0 +1,2 @@
+com.HelloWorldController=org.springframework.stereotype.Component
+com.HomeController=org.springframework.stereotype.Component
