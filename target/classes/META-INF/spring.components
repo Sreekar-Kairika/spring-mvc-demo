@@ -1,3 +1,4 @@
+com.CustomerController=org.springframework.stereotype.Component
 com.HelloWorldController=org.springframework.stereotype.Component
 com.HomeController=org.springframework.stereotype.Component
 com.SillyController=org.springframework.stereotype.Component
